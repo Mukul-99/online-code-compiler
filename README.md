@@ -1,3 +1,8 @@
+## Demo:
+<p align="center">
+<img src="https://i.imgur.com/BQUvi6z.png" width="800">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
